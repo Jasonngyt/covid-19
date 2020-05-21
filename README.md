@@ -12,13 +12,13 @@ Breakdown figures of individual countires can also be shown through search by Co
 
 
 ## Technologies Used
-*Visual Studio Code - The project was developed using Visual Studio Code.
-*React JS - The project is coded with React JS.
-*Google Map - Google Map is used to give a overall view of the number of cases in each country.
-*HTML - The project uses HTML to create the pages.
-*CSS - The project uses CSS to style the pages.
-*Bootstrap - The project uses Bootstrap for styling and responsive design.
-*GitHub - The project uses GitHub as it's version control system.
+* Visual Studio Code - The project was developed using Visual Studio Code.
+* React JS - The project is coded with React JS.
+* Google Map - Google Map is used to give a overall view of the number of cases in each country.
+* HTML - The project uses HTML to create the pages.
+* CSS - The project uses CSS to style the pages.
+* Bootstrap - The project uses Bootstrap for styling and responsive design.
+* GitHub - The project uses GitHub as it's version control system.
 
 
 ## Credits
