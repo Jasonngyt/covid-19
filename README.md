@@ -3,9 +3,9 @@ On 31 December 2019, WHO was informed of cases of pneumonia of unknown cause in 
 
 Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases. A novel coronavirus (nCoV) is a new strain that has not been previously identified in humans. The new virus was subsequently named the “COVID-19 virus”<br><br>
 
-This wesbite is set up to raise awareness fo the virus. The number of virus cases, deaths and recovered numbers will be shown in the Google Map.
+This wesbite is set up to raise people awareness of the virus. The number of Virus Cases, Deaths and Recovered will be shown in the Google Map.
 
-Breakdown figures can also be shown through the search by the Country Names.
+Breakdown figures of individual countires can also be shown through search by Country Name.
 
 #### The Wesbite is general working but requires some CSS touchup. I will deploy this site once everything is ready. Do stay tune!
 #### Meanwhile, you are free to clone the project to check it out.
