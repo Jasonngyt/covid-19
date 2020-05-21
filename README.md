@@ -7,14 +7,14 @@ This wesbite is set up to raise awareness fo the virus. The number of virus case
 
 Breakdown figures can also be shown through the search by the Country Names.
 
-#### The Wesbite is general working but require some CSS touchup. I will deploy this site once everything is ready. Do stay tune!
+#### The Wesbite is general working but requires some CSS touchup. I will deploy this site once everything is ready. Do stay tune!
 #### Meanwhile, you are free to clone the project to check it out.
 
 
-##Technologies Used
+## Technologies Used
 *Visual Studio Code - The project was developed using Visual Studio Code.
-*Google Map - Google Map is used to give a overall view of the number of cases in each country.
 *React JS - The project is coded with React JS.
+*Google Map - Google Map is used to give a overall view of the number of cases in each country.
 *HTML - The project uses HTML to create the pages.
 *CSS - The project uses CSS to style the pages.
 *Bootstrap - The project uses Bootstrap for styling and responsive design.
@@ -28,5 +28,5 @@ https://www.youtube.com/watch?v=mhA11RJMHEM
 https://www.youtube.com/watch?v=OunoJaa-dnU
 
 
-### 2 of the API are taken from:
+### Novel COVID API
 https://corona.lmao.ninja/
