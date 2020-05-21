@@ -29,4 +29,4 @@ https://www.youtube.com/watch?v=OunoJaa-dnU
 
 
 ### Novel COVID API
-https://corona.lmao.ninja/
+ - https://corona.lmao.ninja/
