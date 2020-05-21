@@ -158,7 +158,7 @@ function App() {
         <Col sm={9}>
           <div style ={{height : '100vh', width : '100%'}}>
             <GoogleMapReact
-              bootstrapURLKeys={{ key:"AIzaSyDpaf6vRa7w5_v0ZHse3lAwTkQY1ISB5hM"}}
+              // bootstrapURLKeys={{ key:"Your API Key"}}
               defaultCenter={{lat: 59.95, lng: 30.33}}
               defaultZoom={4}
             >
